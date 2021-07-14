@@ -3,6 +3,6 @@
 <p align='center'>
 I'm Davidson N. Fahel
 </p>
-<p align='center'>Load balacing the programmation and business</p>
+<p align='center'>Load balancing the programmation and business</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
