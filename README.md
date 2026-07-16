@@ -11,13 +11,13 @@ Minha motivação vem da busca constante por conhecimento, inovação e pela sat
 
 ## 💻 Habilidades
 
-- C/C++
-- C#
-- HTML/CSS
-- Java
 - JavaScript/TypeScript
 - PHP
+- C/C++
+- C#
+- Java
 - Python
+- GO
 
 Eu me considero um ninja em C/C++ e PHP, mas hoje minha paixão é mesmo o TypeScript.
 Sou capaz de criar aplicativos incríveis usando as mais recentes bibliotecas e frameworks como React.js e React Native.
